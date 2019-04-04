@@ -1,2 +1,2 @@
-# iOS-ARFaceDepth-Sample
-A demo project of  visualizing the depth data
+# iOS-ARDepth-Sample
+A demo project of AR depth visualization
